@@ -73,8 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This is an awesome project that does amazing things.
 
-![Project Screenshot](file:///c:\Users\User\OneDrive\Images\Captures d’écran\capture1.png)
-![Project Screenshot](file:///c:\Users\User\OneDrive\Images\Captures d’écran\capture2.png)
+
 
 ## Features
 
