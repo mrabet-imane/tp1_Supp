@@ -1,0 +1,115 @@
+a{
+    text-decoration: none;
+    color:black;
+    margin: 5%;
+}
+.MenuButton{
+    background-color: purple;
+    color: white;
+    margin:2%;
+    border: solid 1px; 
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+.MenuButton2{
+    background-color: white;
+    color: purple;
+    margin:2%;
+    border: solid 1px; 
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+nav{
+    width: 40%;
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: 40px;
+}
+header{
+    display: flex;
+    flex-wrap:nowrap;
+  justify-content: center;
+    
+}
+.card-badge{
+    background-color: rgb(210, 151, 210);
+    width:30%;
+    text-decoration: none;
+    font-weight: none;
+
+}
+.card-description{
+    color: rgb(170, 170, 170);
+    margin-bottom: 0%;
+    padding-bottom:0% ;
+}
+.card-prcie{
+    margin-top: 0%;
+    margin-bottom: 0%;
+   
+}
+.card{
+    width:20%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5%;
+}
+.addcart{
+    color: grey;
+    display: flex;
+    align-items: center;
+    
+    border:solid 1px rgb(193, 193, 193);
+    
+}
+.buy{
+    color: white;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    border:solid 1px purple;
+
+}
+.card-footer{
+    width: 100%;
+    display: flex;
+   
+}
+.card-body{
+    width: 100%;
+    
+}
+
+.card-header{
+    width:100%;
+   
+}
+button{
+    width: 40%;
+    margin:3%;
+    padding: 1%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px;
+}
+.TitleP{
+    width: 100%;
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: purple;
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
